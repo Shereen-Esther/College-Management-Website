@@ -1,4 +1,4 @@
-# Full-Stack Project for Roulettech Inc.
+# Full-Stack Project
 Presented by: Shereen Esther Jubal
 
 ## Content
